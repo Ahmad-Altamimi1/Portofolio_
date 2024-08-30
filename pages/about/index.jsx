@@ -83,7 +83,7 @@ export const aboutData = [
       },
       {
         title: "Applied math -JUST ",
-        stage: "20022",
+        stage: "2022",
       },
     ],
   },
@@ -126,12 +126,12 @@ const About = () => {
             animate="show"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0"
           >
-            Two years ago, I embarked on my journey as a developer. Since then,
+            {/* Two years ago, I embarked on my journey as a developer. Since then,
             I've had the privilege of working remotely for agencies, consulting
             for startups, and collaborating on digital products designed for
             both businesses and consumers. Currently, I am employed at
             kensoftware, where I contribute to significant projects, leveraging
-            my expertise to drive impactful solutions.
+            my expertise to drive impactful solutions. */}
           </motion.p>
 
           {/* counters */}

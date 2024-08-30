@@ -34,11 +34,7 @@ const Home = () => {
           >
             As a passionate full-stack developer, I specialize in turning
             innovative concepts into fully functional, user-centric digital
-            solutions. With expertise in modern web technologies, I craft
-            seamless experiences that bridge the gap between imagination and
-            reality. Whether it's a sleek front-end interface or a robust
-            back-end system, I bring your ideas to life with precision and
-            creativity.
+            solutions.
           </motion.p>
 
           {/* btn */}

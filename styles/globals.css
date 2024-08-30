@@ -17,6 +17,16 @@
 .swiper-rtl .swiper-button-prev:after {
   color: #f13024;
 }
+@media (max-width: 640px) {
+  /* Typically covers most phone screens */
+  .responsive-circle {
+    width: 100px;
+    height: 100px;
+  }
+  .textarea {
+    height: 95px;
+  }
+}
 
 @layer base {
   body {
